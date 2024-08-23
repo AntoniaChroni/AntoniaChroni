@@ -1,0 +1,76 @@
+---
+output: github_document
+always_allow_html: true
+---
+
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment  = "#>",
+  echo     = FALSE,
+  message  = FALSE,
+  warning  = FALSE
+)
+
+suppressPackageStartupMessages({
+  library(webshot2)
+  library(tidyRSS)
+  library(tidyverse)
+  library(purrr)
+})
+```
+
+### Hi, I'm Tonia 😊
+
+I'm a Senior Bioinformatics Research Scientist at the [Bioinformatics Core at the St. Jude Children's Research Hospital](https://www.stjude.org/research/departments/developmental-neurobiology/shared-resources/bioinformatic-core.html). We provide advanced bioinformatic services for investigators to leverage genomics, proteomics and metabolomics (omics) data.
+
+Other than support project analysis, I build and automate computational workflows and pipelines. I have experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and sc-TCR/BCR-Seq analysis in the context of tumor evolution and microenvironment. I am also passionate about computation, automation and reproducibility for scientists. 
+
+I am an evolutionary computational biologist by training with extensive expertise in molecular evolution and phylogenetics, ecology and biogeography in the context of species and cancer. I introduced the “Tumor Island Biogeography”, a unique, fresh conceptual framework proposing that tumors are evolutionary islands that their heterogeneity can be explored by using omics data in the clinical setting ([Chroni, 2024](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003307921-10/tumor-island-biogeography-antonia-chroni) and [Chroni and Kumar, 2021](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003307921-10/tumor-island-biogeography-antonia-chroni)). I also co-developed [PathFinder](https://github.com/SayakaMiura/PathFinder), a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer’s migration history in a patient. For more details on my research, please visit my [digital home](https://antoniachroni.github.io/) 🏠.
+
+
+### Here's some stats on my GitHub repos
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AntoniaChroni&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&hide=html,css,jupyter%20notebook&layout=compact">
+</p>
+
+
+### My recent GitHub activity
+
+```{r github, results = "asis"}
+activity <- tidyfeed("https://github.com/AntoniaChroni.atom") %>%
+    arrange(desc(entry_last_updated)) %>%
+    slice_head(n = 10)
+
+map_chr(activity$entry_title, function(.title) {
+    title <- str_remove(.title, "^AntoniaChroni ")
+    title_split <- str_split(str_to_sentence(title), " ", simplify = TRUE)
+    repo <- title_split[length(title_split)]
+    repo_link <- glue::glue("[{repo}](https://github.com/{repo})")
+    event_type <- title_split[1]
+    event <- glue::glue_collapse(title_split[-length(title_split)], sep = " ")
+    emoji <- case_when(
+        event_type == "Commented" ~ "🗣",
+        event_type == "Closed"    ~ "🎊",
+        event_type == "Merged"    ~ "🎉",
+        event_type == "Opened"    ~ "🤔",
+        event_type == "Pushed"    ~ "📨",
+        event_type == "Starred"   ~ "⭐️",
+        event_type == "Forked"    ~ "🍴",
+        event_type == "Released"  ~ "📦",
+        TRUE                      ~ "😺"
+    )
+    glue::glue("* {emoji} {event} {repo_link}")
+})  %>%
+    paste(collapse = "\n") %>%
+    cat()
+```
+
+```{r sessionInfo, include = FALSE}
+sessionInfo()
+```
+
+
