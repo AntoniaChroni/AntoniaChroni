@@ -26,14 +26,12 @@ biogeography in the context of species and cancer. I introduced the
 proposing that tumors are evolutionary islands that their heterogeneity
 can be explored by using omics data in the clinical setting ([Chroni,
 2024](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003307921-10/tumor-island-biogeography-antonia-chroni)
-and [Chroni and Kumar,
-2021](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003307921-10/tumor-island-biogeography-antonia-chroni)).
-I also co-developed
-[PathFinder](https://github.com/SayakaMiura/PathFinder), a computational
-Bayesian method that uses the clone phylogeny, their genetic
-differentiation, and anatomical locations to infer cancer’s migration
-history in a patient. For more details on my research, please visit my
-[digital home](https://antoniachroni.github.io/) 🏠.
+and [Chroni and Kumar, 2021](https://doi.org/10.1093/gbe/evab276)). I
+co-developed [PathFinder](https://github.com/SayakaMiura/PathFinder), a
+computational Bayesian method that uses the clone phylogeny, their
+genetic differentiation, and anatomical locations to infer cancer’s
+migration history in a patient. For more details on my research, please
+visit my [digital home](https://antoniachroni.github.io/) 🏠.
 
 ### Here’s some stats on my GitHub repos
 
@@ -44,6 +42,10 @@ history in a patient. For more details on my research, please visit my
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 📨 Pushed to main in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
 - 😺 Created a branch add-archive in
   [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
 - 📨 Pushed to main in
@@ -53,10 +55,6 @@ history in a patient. For more details on my research, please visit my
 - 😺 Created a repository
   [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
 - 😺 Created a branch add-archive in
-  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
-- 📨 Pushed to main in
   [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
 - 📨 Pushed to main in
   [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
