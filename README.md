@@ -14,7 +14,7 @@ computational workflows and pipelines
 
 🧬 💪 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and
 sc-TCR/BCR-Seq analysis in the context of tumor evolution and
-microenvironment.
+microenvironment
 
 :bug: :construction_worker: Passionate about computation, automation and
 reproducibility for scientists
