@@ -32,7 +32,7 @@ I'm a Senior Bioinformatics Research Scientist at the [Bioinformatics Core at th
 :rocket: :construction: :construction_worker: Build and automate computational workflows and pipelines
 
 
-🧬 💪 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and sc-TCR/BCR-Seq analysis in the context of tumor evolution and microenvironment. 
+🧬 💪 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and sc-TCR/BCR-Seq analysis in the context of tumor evolution and microenvironment
 
 
 :bug: :construction_worker: Passionate about computation, automation and reproducibility for scientists
