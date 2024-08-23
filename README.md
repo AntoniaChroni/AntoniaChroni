@@ -7,11 +7,17 @@ Hospital](https://www.stjude.org/research/departments/developmental-neurobiology
 We provide advanced bioinformatic services for investigators to leverage
 genomics, proteomics and metabolomics (omics) data.
 
-Other than support project analysis, I build and automate computational
-workflows and pipelines. I have experience with WGS/WES, sc-RNA-Seq,
-sc-ATAC-Seq and sc-TCR/BCR-Seq analysis in the context of tumor
-evolution and microenvironment. I am also passionate about computation,
-automation and reproducibility for scientists.
+📊 🖇️ Support project analysis
+
+:rocket: :construction: :construction_worker: Build and automate
+computational workflows and pipelines
+
+🧬 💪 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and
+sc-TCR/BCR-Seq analysis in the context of tumor evolution and
+microenvironment.
+
+:bug: :construction_worker: Passionate about computation, automation and
+reproducibility for scientists
 
 I am an evolutionary computational biologist by training with extensive
 expertise in molecular evolution and phylogenetics, ecology and
@@ -38,17 +44,23 @@ history in a patient. For more details on my research, please visit my
 
 ### My recent GitHub activity
 
-- 😺 Created a repository
-  [antoniachroni/antoniachroni-github](https://github.com/antoniachroni/antoniachroni-github)
+- 😺 Created a branch add-archive in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 📨 Pushed to main in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
 - 😺 Created a branch main in
-  [antoniachroni/antoniachroni-github](https://github.com/antoniachroni/antoniachroni-github)
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 😺 Created a repository
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 😺 Created a branch add-archive in
+  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
 - 📨 Pushed to main in
-  [antoniachroni/antoniachroni.github.io](https://github.com/antoniachroni/antoniachroni.github.io)
+  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
 - 📨 Pushed to main in
-  [antoniachroni/antoniachroni.github.io](https://github.com/antoniachroni/antoniachroni.github.io)
+  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
 - 📨 Pushed to main in
-  [antoniachroni/antoniachroni.github.io](https://github.com/antoniachroni/antoniachroni.github.io)
+  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
 - 📨 Pushed to main in
-  [antoniachroni/antoniachroni.github.io](https://github.com/antoniachroni/antoniachroni.github.io)
-- 🗣 Commented on issue
-  [satijalab/seurat#8938](https://github.com/satijalab/seurat#8938)
+  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
+- 📨 Pushed to main in
+  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
