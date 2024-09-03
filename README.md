@@ -45,6 +45,8 @@ For more details on my work and research, please visit my [digital
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
 - 🗣 Commented on issue
   [stjudednbbinfcore/epigenomic-profiling-analysis#3](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis#3)
 - 🤔 Opened an issue in
@@ -62,6 +64,4 @@ For more details on my work and research, please visit my [digital
 - 😺 Created a branch add-gitignore-file in
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
 - 🤔 Opened an issue in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 😺 Created a branch main in
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
