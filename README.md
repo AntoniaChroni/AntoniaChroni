@@ -19,12 +19,12 @@ microenvironment
 :bug: :construction_worker: Passionate about computation, automation and
 reproducibility for scientists
 
-I am an evolutionary computational biologist by training with extensive
-expertise in molecular evolution and phylogenetics, ecology and
-biogeography in the context of species and cancer. I introduced the
-“Tumor Island Biogeography”, a unique, fresh conceptual framework
-proposing that tumors are evolutionary islands that their heterogeneity
-can be explored by using omics data in the clinical setting ([Chroni,
+I am an evolutionary biologist by training with extensive expertise in
+molecular evolution and phylogenetics, ecology and biogeography in the
+context of species and cancer. I introduced the “Tumor Island
+Biogeography” framework proposing that tumors are evolutionary islands
+that their heterogeneity can be explored by using omics data in the
+clinical setting ([Chroni,
 2024](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003307921-10/tumor-island-biogeography-antonia-chroni)
 and [Chroni and Kumar, 2021](https://doi.org/10.1093/gbe/evab276)). I
 co-developed [PathFinder](https://github.com/SayakaMiura/PathFinder), a
@@ -45,23 +45,23 @@ For more details on my work and research, please visit my [digital
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [stjudednbbinfcore/epigenomic-profiling-analysis#3](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis#3)
+- 🤔 Opened an issue in
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
+- 😺 Deleted branch add-gitignore-file at
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
+- 🎊 Closed an issue in
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
 - 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 😺 Created a branch add-archive in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
+- 🎉 Merged a pull request in
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
+- 🤔 Opened a pull request in
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
+- 😺 Created a branch add-gitignore-file in
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
+- 🤔 Opened an issue in
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
 - 😺 Created a branch main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 😺 Created a repository
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 😺 Created a branch add-archive in
-  [antoniachroni/antoniachroni1](https://github.com/antoniachroni/antoniachroni1)
+  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
