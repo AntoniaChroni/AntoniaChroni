@@ -40,7 +40,7 @@ For more details on my work and research, please visit my [digital
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AntoniaChroni&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&hide=html,css,jupyter%20notebook&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&show=html,css,jupyter%20notebook&layout=compact">
 </p>
 
 ### My recent GitHub activity
