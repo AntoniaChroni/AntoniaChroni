@@ -46,22 +46,22 @@ For more details on my work and research, please visit my [digital
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [stjudednbbinfcore/stjudednbbinfcore](https://github.com/stjudednbbinfcore/stjudednbbinfcore)
+- 😺 Created a branch main in
+  [stjudednbbinfcore/stjudednbbinfcore](https://github.com/stjudednbbinfcore/stjudednbbinfcore)
+- 😺 Created a repository
+  [stjudednbbinfcore/stjudednbbinfcore](https://github.com/stjudednbbinfcore/stjudednbbinfcore)
+- 📨 Pushed to main in
+  [stjudednbbinfcore/.github-private](https://github.com/stjudednbbinfcore/.github-private)
+- 📨 Pushed to main in
+  [stjudednbbinfcore/.github-private](https://github.com/stjudednbbinfcore/.github-private)
+- 😺 Created a repository
+  [stjudednbbinfcore/.github-private](https://github.com/stjudednbbinfcore/.github-private)
+- 😺 Created a branch main in
+  [stjudednbbinfcore/.github-private](https://github.com/stjudednbbinfcore/.github-private)
+- 📨 Pushed to main in
   [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 🗣 Commented on issue
-  [stjudednbbinfcore/epigenomic-profiling-analysis#3](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis#3)
-- 🤔 Opened an issue in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 😺 Deleted branch add-gitignore-file at
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 🎊 Closed an issue in
+- 😺 Deleted branch peak-calling-analysis at
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
 - 📨 Pushed to main in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 🎉 Merged a pull request in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 🤔 Opened a pull request in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 😺 Created a branch add-gitignore-file in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 🤔 Opened an issue in
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
