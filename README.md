@@ -54,6 +54,8 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 - 📨 Pushed to main in
   [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
 - 📨 Pushed to main in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 📨 Pushed to main in
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
 - 😺 Added codyramirez to
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
@@ -68,6 +70,4 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 - 😺 Added antoniachroni to
   [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
 - 📨 Pushed to main in
-  [stjudednbbinfcore/stjudednbbinfcore](https://github.com/stjudednbbinfcore/stjudednbbinfcore)
-- 😺 Created a branch main in
   [stjudednbbinfcore/stjudednbbinfcore](https://github.com/stjudednbbinfcore/stjudednbbinfcore)
