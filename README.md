@@ -53,21 +53,21 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 
 - 📨 Pushed to main in
   [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 😺 Deleted branch add-sample-distribution-analysis at
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 😺 Created a branch add-sample-distribution-analysis in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
 - 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 😺 Deleted branch add-sample-distribution-analysis at
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 🎊 Closed an issue in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 🎊 Closed an issue in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 🎊 Closed an issue in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
 - 📨 Pushed to main in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 😺 Added codyramirez to
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 😺 Added antoniachroni to
-  [stjudednbbinfcore/epigenomic-profiling-analysis](https://github.com/stjudednbbinfcore/epigenomic-profiling-analysis)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/stjudednbbinfcore](https://github.com/stjudednbbinfcore/stjudednbbinfcore)
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 🎉 Merged a pull request in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
