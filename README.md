@@ -51,23 +51,23 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 
 ### My recent GitHub activity
 
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 😺 Deleted branch add-sample-distribution-analysis at
+- 😺 Edited a wiki page in
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
-- 😺 Created a branch add-sample-distribution-analysis in
+- 😺 Edited a wiki page in
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
-- 📨 Pushed to main in
+- 😺 Deleted branch rm-servises-v1 at
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
-- 😺 Deleted branch add-sample-distribution-analysis at
-  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
-- 🎊 Closed an issue in
-  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
-- 🎊 Closed an issue in
+- 🎉 Merged a pull request in
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
 - 🎊 Closed an issue in
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
 - 📨 Pushed to main in
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
 - 🎉 Merged a pull request in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 🤔 Opened a pull request in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 🤔 Opened an issue in
+  [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
+- 😺 Created a branch rm-servises-v1 in
   [stjude-biohackathon/kids24-team1](https://github.com/stjude-biohackathon/kids24-team1)
