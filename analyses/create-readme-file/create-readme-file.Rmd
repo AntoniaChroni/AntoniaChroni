@@ -23,7 +23,8 @@ suppressPackageStartupMessages({
 
 ### Hi, I'm Tonia 😊
 
-I'm a Senior Bioinformatics Research Scientist at the [Bioinformatics Core at the St. Jude Children's Research Hospital](https://www.stjude.org/research/departments/developmental-neurobiology/shared-resources/bioinformatic-core.html). 
+I'm a Senior Bioinformatics Research Scientist at the [Bioinformatics Core at the Department of Develpmental Neurobiology at the St. Jude Children's Research Hospital](https://www.stjude.org/research/departments/developmental-neurobiology/shared-resources/bioinformatic-core.html). 
+
 
 📊️ Support project analysis
 
@@ -31,7 +32,7 @@ I'm a Senior Bioinformatics Research Scientist at the [Bioinformatics Core at th
 :rocket: Build and automate computational workflows and pipelines
 
 
-🧬 💪 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and sc-TCR/BCR-Seq analysis in the context of tumor evolution and microenvironment
+🧬 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and sc-TCR/BCR-Seq analysis in the context of tumor evolution and microenvironment
 
 
 :construction_worker: Passionate about computation, automation and reproducibility for scientists

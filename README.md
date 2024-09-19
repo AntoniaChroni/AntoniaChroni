@@ -2,14 +2,15 @@
 ### Hi, I’m Tonia 😊
 
 I’m a Senior Bioinformatics Research Scientist at the [Bioinformatics
-Core at the St. Jude Children’s Research
+Core at the Department of Develpmental Neurobiology at the St. Jude
+Children’s Research
 Hospital](https://www.stjude.org/research/departments/developmental-neurobiology/shared-resources/bioinformatic-core.html).
 
 📊️ Support project analysis
 
 :rocket: Build and automate computational workflows and pipelines
 
-🧬 💪 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and
+🧬 Extensive experience with WGS/WES, sc-RNA-Seq, sc-ATAC-Seq and
 sc-TCR/BCR-Seq analysis in the context of tumor evolution and
 microenvironment
 
@@ -50,6 +51,8 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
+- 📨 Pushed to main in
   [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
 - 😺 Deleted branch antoniachroni-patch-1 at
   [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
@@ -66,6 +69,4 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 - 😺 Created a branch antoniachroni-patch-1 in
   [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
 - 😺 Deleted branch add-slides-bulk-rna at
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 🎊 Closed an issue in
   [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
