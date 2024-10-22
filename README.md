@@ -45,28 +45,28 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AntoniaChroni&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&show=html,css,jupyter%20notebook&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&hide=html,css,jupyter%20notebook&layout=compact">
 </p>
 
 ### My recent GitHub activity
 
-- 📨 Pushed to main in
-  [antoniachroni/antoniachroni](https://github.com/antoniachroni/antoniachroni)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 😺 Deleted branch antoniachroni-patch-1 at
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 🎊 Closed an issue in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 🎉 Merged a pull request in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 📨 Pushed to main in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 🤔 Opened an issue in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
 - 🤔 Opened a pull request in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 😺 Created a branch antoniachroni-patch-1 in
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
-- 😺 Deleted branch add-slides-bulk-rna at
-  [stjudednbbinfcore/trainings](https://github.com/stjudednbbinfcore/trainings)
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 🤔 Opened an issue in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 😺 Created a branch add-templates in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 🤔 Opened an issue in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 🤔 Opened a pull request in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 📨 Pushed to update-automation-slides in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 📨 Pushed to update-automation-slides in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 😺 Created a branch update-automation-slides in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 🤔 Opened an issue in
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
+- 😺 Deleted branch antoniachroni-patch-1 at
+  [stjude-dnb-binfcore/trainings](https://github.com/stjude-dnb-binfcore/trainings)
