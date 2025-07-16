@@ -20,6 +20,8 @@ microenvironment
 :construction_worker: Passionate about computation, automation and
 reproducibility for scientists
 
+------------------------------------------------------------------------
+
 #### Research
 
 :smiley: For more details on my work and research, please visit my
@@ -28,9 +30,15 @@ reproducibility for scientists
 scholar
 profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 
+------------------------------------------------------------------------
+
 ### Here’s some stats on my GitHub repos
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AntoniaChroni&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&hide=html,css,jupyter%20notebook&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=AntoniaChroni&show_icons=true&theme=radical" alt="Antonia's GitHub stats" />
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+------------------------------------------------------------------------
