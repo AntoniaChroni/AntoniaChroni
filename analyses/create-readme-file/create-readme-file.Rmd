@@ -67,6 +67,27 @@ I am an evolutionary computational biologist by training with extensive expertis
 </p>
 
 
+> *GitHub only counts personal, non-forked/public repos—organization and forked repos are excluded by default.*
+
+
+#### 🛠 Skills & Technologies I Use
+
+These cover work across personal, forked, and org repos:
+
+- **Programming Languages:**  
+   - Bash/ Shell 🖥️
+   - Markdown / YAML 🧾
+   - Python 🐍
+   - R 📊
+
+- **Containerization & Workflow Tools:**  
+   - Docker
+   - Singularity
+
+- **Version Control & CI/CD:**  
+   - Git
+   - GitHub (Actions, Packages, Workflows)
+
 ---
 
 ```{r github, results = "asis", include = FALSE}
