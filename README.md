@@ -41,4 +41,23 @@ profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
+> *GitHub only counts personal, non-forked/public repos—organization and
+> forked repos are excluded by default.*
+
+#### 🛠 Skills & Technologies I Use
+
+These cover work across personal, forked, and org repos:
+
+- **Programming Languages:**
+  - Bash/ Shell 🖥️
+  - Markdown / YAML 🧾
+  - Python 🐍
+  - R 📊
+- **Containerization & Workflow Tools:**
+  - Docker
+  - Singularity
+- **Version Control & CI/CD:**
+  - Git
+  - GitHub (Actions, Packages, Workflows)
+
 ------------------------------------------------------------------------
