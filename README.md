@@ -22,27 +22,18 @@ reproducibility for scientists
 
 ------------------------------------------------------------------------
 
-#### Research
-
-:smiley: For more details on my work and research, please visit my
-[digital 🏠](https://antoniachroni.github.io/) or my [LinkedIn
-🏠](https://www.linkedin.com/in/antonia-chroni-ba1a8514b/) or [Google
-scholar
-profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
-
-------------------------------------------------------------------------
-
 ### Here’s some stats on my GitHub repos
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AntoniaChroni&show_icons=true&theme=radical" alt="Antonia's GitHub stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaChroni&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoniaChroni&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoniaChroni&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntoniaChroni&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntoniaChroni&theme=zenburn&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntoniaChroni&theme=zenburn&utcOffset=8)
 
 > *GitHub only counts personal, non-forked/public repos—organization and
 > forked repos are excluded by default.*
+
+------------------------------------------------------------------------
 
 #### 🛠 Skills & Technologies I Use
 
@@ -61,3 +52,13 @@ These cover work across personal, forked, and org repos:
   - GitHub (Actions, Packages, Workflows)
 
 ------------------------------------------------------------------------
+
+
+:smiley: For more details on my work and research, please visit my
+[digital 🏠](https://antoniachroni.github.io/) or my [LinkedIn
+🏠](https://www.linkedin.com/in/antonia-chroni-ba1a8514b/) or [Google
+scholar
+profile](https://scholar.google.com/citations?user=WHYQrCYAAAAJ&hl=en).
+
+
+
