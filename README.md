@@ -25,8 +25,6 @@ reproducibility for scientists
 ### Here’s some stats on my GitHub repos
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoniaChroni&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoniaChroni&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntoniaChroni&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntoniaChroni&theme=zenburn&)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntoniaChroni&theme=zenburn&utcOffset=8)
 
