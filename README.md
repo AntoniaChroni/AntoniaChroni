@@ -1,9 +1,7 @@
 
 ### Hi, I’m Tonia 😊
 
-I am an evolutionary computational biologist by training with extensive
-expertise in molecular evolution and phylogenetics, ecology and
-biogeography in the context of species and cancer.
+I am an evolutionary computational biologist by training, with extensive expertise in molecular evolution, phylogenetics, ecology, and biogeography in the context of both species and cancer. I work at the intersection of computational biology, software engineering, and reproducible pipeline development, with a focus on single‑cell and cancer research.
 
 👩🏻‍💻 Currently a Senior Bioinformatics Research Scientist at the [St. Jude
 Children’s Research
