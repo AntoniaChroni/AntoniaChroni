@@ -3,7 +3,7 @@
 
 I am an evolutionary computational biologist by training, with extensive expertise in molecular evolution, phylogenetics, ecology, and biogeography in the context of both species and cancer. I work at the intersection of computational biology, software engineering, and reproducible pipeline development, with a focus on single‑cell and cancer research.
 
-👩🏻‍💻 Currently a Senior Bioinformatics Research Scientist at the [St. Jude
+👩🏻‍💻 Currently a Lead Bioinformatics Research Scientist at the [St. Jude
 Children’s Research
 Hospital](https://www.stjude.org/research/departments/developmental-neurobiology/shared-resources/bioinformatic-core.html)
 
