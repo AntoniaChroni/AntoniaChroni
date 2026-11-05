@@ -35,12 +35,14 @@ reproducibility for scientists
 
 These cover work across personal, forked, and org repos:
 
-- **Programming Languages:**
+- **Programming & Configuration Languages:**
   - Bash/ Shell 🖥️
   - Markdown / YAML 🧾
   - Python 🐍
   - R 📊
-- **Containerization & Workflow Tools:**
+  - WDL
+- **Workflow Orchestration & Containerization:**
+  - Sprocket
   - Docker
   - Singularity
 - **Version Control & CI/CD:**
